@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{1C71B0B5-B185-422A-BEF4-505F1669583F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMRService", "GMRService\GMRService.csproj", "{AE43D8FA-0B31-4A72-A78A-5DD7527F6D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C71B0B5-B185-422A-BEF4-505F1669583F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C71B0B5-B185-422A-BEF4-505F1669583F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C71B0B5-B185-422A-BEF4-505F1669583F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C71B0B5-B185-422A-BEF4-505F1669583F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE43D8FA-0B31-4A72-A78A-5DD7527F6D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE43D8FA-0B31-4A72-A78A-5DD7527F6D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE43D8FA-0B31-4A72-A78A-5DD7527F6D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE43D8FA-0B31-4A72-A78A-5DD7527F6D63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
